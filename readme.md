@@ -11,6 +11,8 @@ A hands-on demo for learning and simulating a high-traffic REST API with:
 - K6 load testing
 - 1M+ demo user records
 
+````
+
 ---
 
 ## Quick Start
@@ -24,7 +26,7 @@ A hands-on demo for learning and simulating a high-traffic REST API with:
 ```sh
 git clone https://github.com/zeydozer/large-demo.git
 cd large-demo
-````
+```
 
 ### 2. Build & Run
 
