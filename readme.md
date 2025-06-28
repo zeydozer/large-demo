@@ -17,10 +17,6 @@ A hands-on demo for learning and simulating a high-traffic REST API with:
 
 ## Quick Start
 
-**Requirements:**  
-- Docker & Docker Compose  
-- (Recommended) At least 8GB RAM
-
 ### 1. Clone
 
 ```sh
